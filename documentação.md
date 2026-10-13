@@ -1,6 +1,6 @@
 # Escola: Colégio Estadual frei domingos
 
-Grupo: Lainara F, Pedro E, Antônio, Samuel, Wanderson.
+## Grupo: Lainara F, Pedro E, Antônio, Samuel, Wanderson.
 
 Jogabilidade: Ruim, aparentemente não tem um personagem jogável.
 
