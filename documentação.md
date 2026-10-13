@@ -1,4 +1,4 @@
-Escola: Colégio Estadual frei domingos
+# Escola: Colégio Estadual frei domingos
 
 Grupo: Lainara F, Pedro E, Antônio, Samuel, Wanderson.
 
